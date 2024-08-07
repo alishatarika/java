@@ -23,7 +23,7 @@ public class firstCode {
 
     short s =89;
     System.out.println(s);
-//difference in only on range
+    //difference in only on range
     long l=34;
     System.out.println(l);
     
